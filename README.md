@@ -1,6 +1,6 @@
 # 👨‍💻 Yuri Barros - Full-Stack Developer
 
-Olá! Eu sou o **Yuri Barros**, desenvolvedor **Full-Stack** com experiência em desenvolvimento de aplicações **web**, **mobile** e **desktop**. Atualmente cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas**, tenho paixão por aprender novas tecnologias e resolver problemas através da programação.
+Olá! Eu sou o **Yuri Barros**, desenvolvedor **Full-Stack** com experiência em desenvolvimento de aplicações **web**, **mobile** e **desktop**. Atualmente cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas**, tenho paixão por aprender novas tecnologias e resolver problemas através da programação.
 
 ---
 
