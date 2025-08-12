@@ -6,7 +6,7 @@ Olá! Eu sou o **Yuri Barros**, desenvolvedor **Full-Stack** com experiência em
 
 ## 🎓 Formação Acadêmica
 ![Estácio](https://img.shields.io/badge/Estácio-005BAC?style=for-the-badge&logoColor=white&labelColor=005BAC)
-- **Graduação**: Análise e Desenvolvimento de Sistemas - 5º Semestre
+- **Graduação**: Análise e Desenvolvimento de Sistemas - Concluido
 
 ![SENAI](https://img.shields.io/badge/SENAI-CC0000?style=for-the-badge&logoColor=white&labelColor=CC0000)
 - **Curso Profissionalizante Concluído**: Desenvolvimento Full-Stack - SENAI (2023 - 2024)
