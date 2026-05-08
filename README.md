@@ -29,12 +29,6 @@ Olá! Eu sou o **Yuri Barros**, desenvolvedor **Full-Stack** com experiência em
 
 ---
 
-## 🌱 Atualmente estudando:
-- Desenvolvimento de sistemas com foco em alta escalabilidade e performance.
-- Práticas de arquitetura de microsserviços.
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-barros-b3461a239) 
